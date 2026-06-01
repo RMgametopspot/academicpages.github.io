@@ -1,7 +1,9 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "How about a resume?"
+excerpt: "Just going to leave this here."
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+https://docs.google.com/document/d/1OBycq7oDfXv3d-SONrdmKBaX3nVmBceMdISYZ9Hyt2I/edit?usp=sharing 
+
+Oops, I dropped my super awesome resume here... Don't peak
