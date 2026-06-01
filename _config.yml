@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Kenneth's simple site"
+title                    : "Just in case you're lazy"
 title_separator          : "-"
 name                     : "Kenneth Beck."
 description              : "The greatest quick website"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -33,7 +33,7 @@ author:
   email            : "Jkjbeck12@gail.com" 
 
   # Academic websites
-  Resume?          : "https://github.com/RMgametopspot/ReadME/blob/main/Resume.pdf"
+  Resume           : "https://github.com/RMgametopspot/ReadME/blob/main/Resume.pdf"
   3 Projects       : "https://github.com/RMgametopspot/ReadME/blob/main/Three%20Projects.pdf"
   Read me          : "https://github.com/RMgametopspot/ReadME/blob/main/README.md"
   inspire-hep      : # URL
